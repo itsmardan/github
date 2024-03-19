@@ -1,0 +1,16 @@
+#search {
+  height: 50px;
+  width: 100%;
+  padding: 8px;
+  border: 2px solid;
+  line-height: 1.6;
+  font-size: 1.25rem;
+}
+.offer {
+  border: 2px dotted #888888;
+  background-color: #FFFFE0;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1.2em; /* Makes the font size larger */
+}

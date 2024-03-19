@@ -122,12 +122,19 @@ h3,
 h4 {
     font-family: Miriam Libre, serif;
     line-height: 1.125;
+    color:#6F42C1;
+    font-weight: bold;
+   
 }
 h1 {
     font-size: 1.35rem;
+    color:#6F42C1;
+  
 }
 h2 {
     font-size: 1.25rem;
+   
+
 }
 h3 {
     font-size: 1.15rem;
