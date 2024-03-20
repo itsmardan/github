@@ -1,0 +1,38 @@
+#search {
+  height: 50px;
+  width: 100%;
+  padding: 8px;
+  border: 2px solid;
+  line-height: 1.6;
+  font-size: 1.25rem;
+}
+.offer {
+  border: 2px dotted #888888;
+  background-color: #FFFFE0;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1.2em;
+}
+
+.offer2 {
+  border: 2px dashed #0066CC;
+  background-color: #E0FFFF;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1.2em;
+}
+
+.offer3 {
+  border: 2px solid #CC0066;
+  background-color: #FFEBCC;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1.2em;
+}
+
+a {
+  color: #3333CC;
+}
