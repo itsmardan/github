@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+  {{ partial "head.html" . }}
+  <body>
+    <a href="#main">{{ T "skip_to_content" }}</a>
+    {{ partial "noscript.html" . }}
+    {{ partial "svg.html" . }}
+    <div class="wrapper">
+      {{ partial "header.html" . }}
+      <div class="main-and-footer">
+        <div>
+          <main id="main">
+            <div class="containerp">
+              <h1>Say Hello to Dr Wajid Khan</h1>
+              <p>For expertise in building high-performance tech teams, evaluating startup technologies, auditing legacy software, and navigating trademarks, patents, and Digital Asset Protocols (DAPs), connect with Dr Wajid Khan.</p>
+              <p>Leverage strategic insights and tailored solutions to strengthen your business’s technological foundation and protect its intellectual property.</p>
+
+              <h2>Contact Information</h2>
+              <p>
+                  Dr Wajid Khan, <br>Enterprise House, <br> 5 Newtown Road, <br>London-Luton Airport, <br> LU1 3EA, United Kingdom.
+              </p>
+              <p>
+                  <strong>Email:</strong> <a href="mailto:me@wajidkhan.info">me@wajidkhan.info</a><br>
+                  <strong>Call:</strong> <a href="tel:+442034682115">+44 020 3468 2115</a>
+              </p>
+
+              <div class="contact-form-container">
+                  <div class="contact-form">
+                      <h1>We're Here to Help!</h1>
+                      <form id="contactform" method="POST">
+                          <!-- Grouping Full Name and Phone -->
+                          <div class="form-group row">
+                              <div class="col-md-69">
+                                  <label for="name">Full Name:</label>
+                                  <input type="text" id="name" name="name" class="form-control" placeholder="Full Name" required>
+                              </div>
+                              <div class="col-md-69">
+                                  <label for="phone">Phone:</label>
+                                  <input type="tel" id="phone" name="phone" class="form-control" placeholder="Phone Number" required>
+                              </div>
+                          </div>
+                          <!-- Grouping Email and Website -->
+                          <div class="form-group row">
+                              <div class="col-md-69">
+                                  <label for="email">Email:</label>
+                                  <input type="email" id="email" name="email" class="form-control" placeholder="Email Address" required>
+                              </div>
+                              <div class="col-md-69">
+                                  <label for="website">Website:</label>
+                                  <input type="text" id="website" name="website" class="form-control" placeholder="Website address">
+                              </div>
+                          </div>
+                          <!-- Single field for Service Type -->
+                          <div class="form-group">
+                              <label for="service-type">Service Type</label>
+                              <select id="service-type" name="service-type" class="form-control" required>
+                                  <option value="" disabled selected>Select a service</option>
+                                  <option value="tech_team_building">Tech Team Building</option>
+                                  <option value="startup_tech_evaluation">Startup Tech Evaluation</option>
+                                  <option value="legacy_software_audits">Legacy Software Audits</option>
+                                  <option value="trademarks_patents">Trademarks and Patents</option>
+                              </select>
+                          </div>
+                          <!-- Text area for Message -->
+                          <div class="form-group">
+                              <label for="message">Details About Your Request:</label>
+                              <textarea id="message" name="message" class="form-control" placeholder="Describe your needs or specific questions regarding our services." rows="5" required></textarea>
+                          </div>
+                          <input type="hidden" name="_captcha" value="true">
+                          <input type="text" name="_confirm_email" style="display:none">
+                          <input type="hidden" name="_subject" value="Contact Form Submission">
+                          <input type="hidden" name="_next" value="/thank-you/">
+                          <button type="submit" class="btn btn-lg btn-primary btn-submit">Submit Request</button>
+                      </form>
+                  </div>
+              </div>
+            </div>
+          </main>
+          {{ if ne .Site.Params.moveFooterToHeader true }}
+            {{ partial "footer.html" . }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    {{ partial "script.html" . }}
+    {{ partial "katex.html" . }}
+    {{ partial "google-analytics-async.html" . }}
+  </body>
+</html>

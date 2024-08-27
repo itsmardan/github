@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Case Studies Dr Wajid Khan PhD on Empowering London Startups Dr. Wajid Khan&#39;s Journey in AI, Software Development, and Digital Marketing Mastery</title>
-    <link>https://wajidkhan.info/case-studies/</link>
-    <description>Recent content in Case Studies Dr Wajid Khan PhD on Empowering London Startups Dr. Wajid Khan&#39;s Journey in AI, Software Development, and Digital Marketing Mastery</description>
+    <title>Case Studies Dr Wajid Khan PhD on </title>
+    <link>http://localhost:1313/case-studies/</link>
+    <description>Recent content in Case Studies Dr Wajid Khan PhD on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://wajidkhan.info/case-studies/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/case-studies/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
