@@ -416,6 +416,7 @@ caption {
     flex-wrap: nowrap;
     align-items: baseline;
     font-weight: bold;
+    font-size:12px;
     padding: 0 1rem;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
