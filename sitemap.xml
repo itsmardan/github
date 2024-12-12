@@ -2,64 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wajidkhan.info/about/</loc>
+    <loc>http://localhost:1313/hire-me/</loc>
+    <lastmod>2024-12-12T11:20:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/teachings/</loc>
+    <lastmod>2024-12-12T11:10:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/data-services/</loc>
+    <lastmod>2024-12-12T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/data-and-ai-ethics/</loc>
+    <lastmod>2024-12-12T10:50:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/data-visualisation/</loc>
+    <lastmod>2024-12-12T10:40:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/bespoke-software/</loc>
+    <lastmod>2024-12-12T10:30:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/ai-applied-skills/</loc>
+    <loc>http://localhost:1313/ai-applied-skills/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/technology-team-building/</loc>
+    <loc>http://localhost:1313/technology-team-building/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/short-call/</loc>
+    <loc>http://localhost:1313/short-call/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/case-studies/</loc>
+    <loc>http://localhost:1313/case-studies/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/legacy-custom-software-audits/</loc>
+    <loc>http://localhost:1313/legacy-custom-software-audits/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/startup-tech-evaluation/</loc>
+    <loc>http://localhost:1313/startup-tech-evaluation/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/faqs/</loc>
+    <loc>http://localhost:1313/faqs/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/side-hustle/</loc>
+    <loc>http://localhost:1313/side-hustle/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/privacy-policy/</loc>
+    <loc>http://localhost:1313/privacy-policy/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/private-digi-assets-pool/</loc>
+    <loc>http://localhost:1313/private-digi-assets-pool/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/research-and-interests/</loc>
+    <loc>http://localhost:1313/research-and-interests/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/reviews/</loc>
+    <loc>http://localhost:1313/reviews/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/service-fees/</loc>
+    <loc>http://localhost:1313/service-fees/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/services/</loc>
+    <loc>http://localhost:1313/services/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/thank-you/</loc>
+    <loc>http://localhost:1313/thank-you/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/trademarks-and-patents-uk/</loc>
+    <loc>http://localhost:1313/trademarks-and-patents-uk/</loc>
     <lastmod>2024-03-20T15:53:46+00:00</lastmod>
   </url><url>
-    <loc>https://wajidkhan.info/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://wajidkhan.info/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://wajidkhan.info/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
